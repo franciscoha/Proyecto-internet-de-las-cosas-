@@ -79,15 +79,14 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Francisco Hernandez Alvarez
                 </div>
-
                 <div class="links">
-                    <a href="https://laravel.com/docs">Documentation</a>
-                    <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://laravel-news.com">News</a>
-                    <a href="https://forge.laravel.com">Forge</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                    <a href="Home">Home</a>
+                    <a href="usuario">usuario</a>
+                    <a href="usuario/nuevo">usuario/nuevo</a>
+                    <a href="usuario/5">usuario/id</a>
+                    <a href="saludos/Estudiante/Pequeño saltamontes">saludo/name/nickname</a>
                 </div>
             </div>
         </div>
