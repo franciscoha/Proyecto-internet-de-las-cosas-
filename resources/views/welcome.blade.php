@@ -11,18 +11,18 @@
         <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
         <script src="https://kit.fontawesome.com/dd92907a44.js" crossorigin="anonymous"></script>
         <link rel="stylesheet" href="{!! asset('css/estilos.css') !!}">
-        <link rel="stylesheet" href="{!! asset('css/bootstrap.css') !!}">
+        <link rel="stylesheet" href="{!! asset('css/bootstrap.min.css') !!}">
         
 
         <!-- Styles -->
         
     </head>
-    <body class="content">
-         <h1 class="title m-b-md">
+    <body class="">
+        <div class="title m-b-md">
                 <i class="fas fa-cloud-sun"></i>    
                 Control de Humedad y Temperatura
-        </h1>
-            <div class=" content container theme-showcase">
+        </div>
+            <div class="content container theme-showcase">
                 <div class="componente">
                      <div class="icon temperature-icon">
                             <i class="fas fa-temperature-low fa-2x"></i>
