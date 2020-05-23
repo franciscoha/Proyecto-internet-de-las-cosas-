@@ -64,6 +64,5 @@
                                 setInterval(updateData2, 1000);
                             }
                             </script>
-                            <link rel="stylesheet" href="{!! asset('js/bootstrap.js') !!}">
     </body>
 </html>
