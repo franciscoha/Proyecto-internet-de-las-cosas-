@@ -1,0 +1,86 @@
+
+            html, body {
+                background-color: #eee;
+                color: #636b6f;
+                font-family: 'Raleway', sans-serif;
+                font-weight: 100;
+                height: 100%;
+                margin: 0;
+            }
+
+            .content {
+                margin:2.5%;
+                padding:10px;
+                border: 1px solid #cccccc;
+                background:#fff;
+                border-radius:5px;
+                border:1px  solid;
+                text-align:center;
+                height: 100%;
+                min-width: 90%;
+                width: 95%;
+                display: flex;
+                flex-direction: column;
+                flex-wrap: nowrap;
+                justify-content:center;
+            }
+
+            .title {
+                font-size: 2rem;
+                font-weight: bold;
+                text-align: center;
+            }
+            .componente{
+                margin-left:20%;
+                margin-top:2%;
+                height: 40%;
+                text-align: left ;
+                min-width:300;
+                color: #636b6f;
+                padding: 0 25px;
+                font-size: 1.5rem;
+                font-weight: 600;
+                letter-spacing: .1rem;
+                text-decoration: none;
+                text-transform: uppercase;
+            }
+            
+            .m-b-md {
+                margin: 10px;
+                padding:10;
+                z-index:10;
+            }
+            
+            .icon{    
+                display:inline-block;
+                width: 50px;
+                height: 50px;
+                border-radius: 50%;
+                line-height: 40px;
+                margin:20px;
+            }
+            .resultados{
+                display:inline-block;
+                height: 60px;
+                line-height: 40px;
+                margin:20px;
+                
+                font-size:2rem;
+            }
+            .temperature-icon{
+                background-color: #f39c12;
+            }
+            .humidity-icon{
+                background-color: #3498db;
+            }
+            i{
+                margin:10px;
+                padding:0;
+            }
+           div{
+               display: inline-block;
+           }
+           .btn{
+               color: #fff;
+               font-weight: 900;
+           }
